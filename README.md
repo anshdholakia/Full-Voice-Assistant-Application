@@ -1,7 +1,5 @@
 # Full-Voice-Assistant-Application
 
-62MusicRecommendation
-
 ## Instructions for setting up Oliver - 
 1. Download 64-bit Python from https://www.python.org/
 2. Download logo.ico, logo.png, logo2.png, inside_logo.ico, requirements.txt, and main.py
